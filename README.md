@@ -15,4 +15,4 @@ email: kaylynn.mosier@yahoo.com
 
 phone: 417-536-6577
 
-github: 
+github: https://github.com/kaymosier/kaymosier.github.io
