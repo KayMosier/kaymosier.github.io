@@ -1,7 +1,15 @@
 ## About Me
 
 ## Work / Projects
-
+### Weather Program
+### EDA on Food Security
+### EDA on Weather Change Data
+### Regression Analysis on Apple Dataset
+### Predictive Modeling on Wine Quality Dataset
+### Customer Segmentation using K-Means Clustering
+### Fraud Detection using Machine Learning
+### UPDATE DSC680 Project 3
+### Database Case Study
 ## Contact
 email: kaylynn.mosier@yahoo.com
 
