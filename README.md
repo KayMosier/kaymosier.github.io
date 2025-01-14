@@ -1,7 +1,8 @@
 ## About Me
 I'm a passionate data scientist with proven experience in Python, R and SQL currently working in the CPG industry with a focus on data driven, customer-focused decision making. 
 ## Projects
-### Weather Program
+### [Weather Program](https://github.com/kaymosier/weatherprogram)
+Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
 ### EDA on Food Security
 ### EDA on Weather Change Data
 ### Regression Analysis on Apple Dataset
