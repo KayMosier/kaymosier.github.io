@@ -1,6 +1,6 @@
 ## About Me
 I'm a passionate data scientist with proven experience in Python, R and SQL currently working in the CPG industry with a focus on data driven, customer-focused decision making. 
-## Work / Projects
+## Projects
 ### Weather Program
 ### EDA on Food Security
 ### EDA on Weather Change Data
