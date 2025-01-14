@@ -1,5 +1,5 @@
 ## About Me
-
+I'm a passionate data scientist with proven experience in Python, R and SQL currently working in the CPG industry with a focus on data driven, customer-focused decision making. 
 ## Work / Projects
 ### Weather Program
 ### EDA on Food Security
@@ -14,3 +14,5 @@
 email: kaylynn.mosier@yahoo.com
 
 phone: 417-536-6577
+
+github: 
