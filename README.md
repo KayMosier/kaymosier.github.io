@@ -3,7 +3,8 @@ I'm a passionate data scientist with proven experience in Python, R and SQL curr
 ## Projects
 ### [Weather Program](https://github.com/kaymosier/weatherprogram)
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
-### EDA on Food Security
+### [EDA on Food Security](https://github.com/kaymosier/Food_Security_EDA)
+Exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world.
 ### EDA on Weather Change Data
 ### Regression Analysis on Apple Dataset
 ### Predictive Modeling on Wine Quality Dataset
