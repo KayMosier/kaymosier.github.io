@@ -1,10 +1,4 @@
-<html>
-
-<body>
-  <p>Welcome to my portfolio and project repository! </p>
-</body>
-
-</html>
+Welcome to my portfolio and project repository!
 
 ## About Me
 I recently graduated with my Masters of Science in Data Science and I am eager to showcase all that I have learned through the program. In addition to my education, I have 2 years of real-world experience in a heavy analytical role in the CPG world.
@@ -16,8 +10,8 @@ To access my current GitHub repository follow this link: [KaylynnMosier](https:/
 To access my resume, follow this link: UPDATE LINK WITH FINAL RESUME
 
 ## Education
-* M.S., Data Science    Bellevue University (March 2025)
-* B.S., Biology         Missouri State University (May 2021)
+* M.S., Data Science        Bellevue University (March 2025)
+* B.S., Biology             Missouri State University (May 2021)
 
 ## Work Experience
 Sensory Specialist @ Tyson Foods (April 2024 - Present)
