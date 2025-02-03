@@ -17,16 +17,16 @@ B.S., Biology  |  Missouri State University *May 2021*
 
 # Work Experience
 Sensory Specialist @ Tyson Foods (April 2024 - Present)
-*
+* Add job description
 
 Sensory Technican @ Tyson Foods (February 2023 - April 2024)
-*
+* Add job description
 
 Laboratory Technician @ UL Rogers (April 2022 - February 2023)
-*
+* Add job description
 
 Server @ Lambert's Cafe (March 2014 - January 2022)
-*
+* Add job description
 
 # Machine Learning Projects
 ### [Predictive Modeling on Wine Quality Dataset](https://github.com/KayMosier/kaymosier.github.io/tree/main/PCA%20%26%20Logistic%20Regression%20on%20Wine%20Quality%20Dataset)
