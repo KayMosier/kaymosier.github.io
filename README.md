@@ -15,6 +15,7 @@ M.S., Data Science  |  Bellevue University *March 2025*
 
 B.S., Biology  |  Missouri State University *May 2021*
 
+
 # Machine Learning Projects
 ### [Predictive Modeling on Wine Quality Dataset](https://github.com/KayMosier/kaymosier.github.io/tree/main/PCA%20%26%20Logistic%20Regression%20on%20Wine%20Quality%20Dataset)
 Pairs measurable physiochemical properties of wine with qualitative sensory data to predict the quality of a bottle of wine.
