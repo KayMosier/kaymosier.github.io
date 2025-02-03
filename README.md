@@ -18,3 +18,5 @@ email: kaylynn.mosier@yahoo.com
 phone: 417-536-6577
 
 github: [KaylynnMosier](https://github.com/kaymosier/kaymosier.github.io)
+
+<a href="github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf" target="_blank">PDF.</a>
