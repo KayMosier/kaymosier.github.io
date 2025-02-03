@@ -1,20 +1,22 @@
 <html>
 
 <body>
-  <h1>YOUR NAME</h1>
-  <p>Welcome to my website!</p>
+  <h1>Kaylynn Mosier</h1>
+  <p>Welcome to my portfolio and project repository! </p>
   <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
 
 </html>
 
 ## About Me
-Welcome to my portfolio and project repository! 
+I recently graduated with my Masters of Science in Data Science and I am eager to showcase all that I have learned through the program. In addition to my education, I have 2 years of real-world experience in a heavy analytical role in the CPG world.
 
 This portfolio will showcase my skills as a data scientist, specifically my abilities to process data, build predictive models, and analyze complex statistical results. 
 
 To access my current GitHub repository follow this link: [KaylynnMosier](https://github.com/kaymosier/kaymosier.github.io)
+
 To access my resume, follow this link: UPDATE LINK WITH FINAL RESUME
+
 ## Projects
 ### [Weather Program](https://github.com/KayMosier/kaymosier.github.io/tree/main/Weather%20Program)
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
