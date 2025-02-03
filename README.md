@@ -1,7 +1,6 @@
 <html>
 
 <body>
-  <h1>Kaylynn Mosier</h1>
   <p>Welcome to my portfolio and project repository! </p>
 </body>
 
