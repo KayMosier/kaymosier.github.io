@@ -10,17 +10,18 @@ To access my current GitHub repository follow this link: [KaylynnMosier](https:/
 To access my resume, follow this link: UPDATE LINK WITH FINAL RESUME
 
 ## Education
-* M.S., Data Science        Bellevue University (March 2025)
-* B.S., Biology             Missouri State University (May 2021)
+* M.S., Data Science  |  Bellevue University (March 2025)
+* B.S., Biology  |  Missouri State University (May 2021)
 
 ## Work Experience
 Sensory Specialist @ Tyson Foods (April 2024 - Present)
-
+*
 Sensory Technican @ Tyson Foods (February 2023 - April 2024)
-
+*
 Laboratory Technician @ UL Rogers (April 2022 - February 2023)
-
+*
 Server @ Lambert's Cafe (March 2014 - January 2022)
+*
 
 ## Projects
 ### [Weather Program](https://github.com/KayMosier/kaymosier.github.io/tree/main/Weather%20Program)
