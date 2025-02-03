@@ -4,7 +4,7 @@
 ### [Weather Program]()
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
 ### EDA on Food Security
-### [EDA on Food Security]([https://github.com/kaymosier/Food_Security_EDA](https://github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf))
+### [EDA on Food Security](https://github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf)
 Exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world.
 ### EDA on Weather Change Data
 ### Regression Analysis on Apple Dataset
