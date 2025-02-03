@@ -10,7 +10,7 @@ Exploratory analysis to understand factors that contribute to food scarcity and 
 ### Predictive Modeling on Wine Quality Dataset
 ### Customer Segmentation using K-Means Clustering
 ### Fraud Detection using Machine Learning
-### UPDATE DSC680 Project 3
+### Housing Price Prediction
 ### Database Case Study
 ## Contact
 email: kaylynn.mosier@yahoo.com
