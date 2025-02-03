@@ -1,9 +1,8 @@
 ## About Me
 
 ## Projects
-### [Weather Program]()
+### [Weather Program](https://github.com/KayMosier/kaymosier.github.io/tree/main/Weather%20Program)
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
-### EDA on Food Security
 ### [EDA on Food Security](https://github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf)
 Exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world.
 ### EDA on Weather Change Data
