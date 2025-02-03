@@ -17,10 +17,13 @@ B.S., Biology  |  Missouri State University *May 2021*
 # Work Experience
 Sensory Specialist @ Tyson Foods (April 2024 - Present)
 *
+
 Sensory Technican @ Tyson Foods (February 2023 - April 2024)
 *
+
 Laboratory Technician @ UL Rogers (April 2022 - February 2023)
 *
+
 Server @ Lambert's Cafe (March 2014 - January 2022)
 *
 
