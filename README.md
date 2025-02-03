@@ -16,7 +16,9 @@ Leverages anonymized dataset containing demographic information to segment custo
 ### [Fraud Detection using Machine Learning](https://github.com/KayMosier/kaymosier.github.io/tree/main/Fraud%20Classification%20on%20Ethereum%20Dataset)
 Utilizes tranasactional data to predict fraudulent transactions.
 ### Housing Price Prediction
+Upcoming
 ### Database Case Study
+Upcoming
 ## Contact
 email: kaylynn.mosier@yahoo.com
 
