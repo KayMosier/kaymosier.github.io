@@ -3,7 +3,6 @@
 <body>
   <h1>Kaylynn Mosier</h1>
   <p>Welcome to my portfolio and project repository! </p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
 </body>
 
 </html>
