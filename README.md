@@ -1,3 +1,5 @@
+## About Me
+
 ## Projects
 ### [Weather Program](https://github.com/kaymosier/weatherprogram)
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
