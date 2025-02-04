@@ -16,7 +16,7 @@ B.S., Biology  |  Missouri State University *May 2021*
 <body>
 <h3>Predictive Modeling on Wine Quality Dataset</h3>
   <p>Pairs measurable physiochemical properties of wine with qualitative sensory data to predict the quality of a bottle of wine.</p>
-<p>Click <a href="EDA on Food Security/EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
+<p>Click <a href="PCA & Logistic Regression on Wine Quality Dataset/EDA and Clustering on Wine Quality Dataset.pdf" target="_blank">here</a> to open the PDF file.</p>
 </body>
 
 <body>
@@ -37,18 +37,36 @@ B.S., Biology  |  Missouri State University *May 2021*
 </body>
 
 # Exploratory Analysis Projects
-### [EDA on Food Security](https://github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf)
-Exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world.
-### [Regression Analysis on Apple Dataset](https://github.com/KayMosier/kaymosier.github.io/tree/main/Regression%20Analysis%20on%20Apple%20Quality%20Data)
-Deep dive into the relationship between quantitative attributes of apples and their relationship to quality rating of that apple. Utilizes regression analysis to further analyze relationships between the features and target variable. 
-### [Transformations on Weather Change Data](https://github.com/KayMosier/kaymosier.github.io/blob/main/Transformations%20on%20Weather%20Data/README.md)
-Exemplifies abilities in data processing and transformation across different file types while also demonstrating abilities to make complicated data joins.
+<body>
+<h3>EDA on Food Security</h3>
+  <p>Exploratory analysis to understand factors that contribute to food scarcity and undernourishment throughout the world.</p>
+<p>Click <a href="EDA on Food Security/EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
+</body>
+
+<body>
+<h3>Regression Analysis on Apple Dataset</h3>
+  <p>Deep dive into the relationship between quantitative attributes of apples and their relationship to quality rating of that apple. Utilizes regression analysis to further analyze relationships between the features and target variable. </p>
+<p>Click <a href="Regression Analysis on Apple Quality Data/EDA on Apple Data with Regression Analysis.pdf">here</a> to open the PDF file.</p>
+</body>
+
+<body>
+<h3>Transformations on Weather Change Data</h3>
+  <p>Exemplifies abilities in data processing and transformation across different file types while also demonstrating abilities to make complicated data joins.
+The completed project spans multipple files which can be find on my GitHub repository, linked to the left. Below is a samll portion of the project utilizing data pulled from an API. </p>
+<p>Click <a href="Transformations on Weather Data/EDA on Weather Change Data- API.pdf">here</a> to open the PDF file.</p>
+</body>
 
 # Other Projects
-### [Weather Program](https://github.com/KayMosier/kaymosier.github.io/tree/main/Weather%20Program)
-Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
-### Database Case Study
-Upcoming
+<body>
+<h3>Weather Program</h3>
+  <p>Small interactive program that finds the weather for any city or zip code requested by user. </p>
+<p>Click <a href="Weather Program/Weather Program.pdf">here</a> to open the PDF file.</p>
+</body>
+
+<body>
+<h3>Database Case Study</h3>
+  <p>Upcoming </p>
+</body>
 
 # Contact
 email: kaylynn.mosier@yahoo.com
