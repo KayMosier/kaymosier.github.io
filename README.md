@@ -14,21 +14,27 @@ B.S., Biology  |  Missouri State University *May 2021*
 
 # Machine Learning Projects
 <body>
-<h2>Predictive Modeling on Wine Quality Dataset</h2>
+<h3>Predictive Modeling on Wine Quality Dataset</h3>
   <p>Pairs measurable physiochemical properties of wine with qualitative sensory data to predict the quality of a bottle of wine.</p>
 <p>Click <a href="EDA on Food Security/EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
 </body>
 
 <body>
-<h2>Customer Segmentation using K-Means Clustering</h2>
+<h3>Customer Segmentation using K-Means Clustering</h3>
   <p>Leverages anonymized dataset containing demographic information to segment customers into like groups using k-means clustering.</p>
 <p>Click <a href="K-Means Clustering on Retail Data for Customer Segmentation/dunhumby- The Complete Journey EDA & Segmentation.pdf" target="_blank">here</a> to open the PDF file.</p>
 </body>
 
-### [Fraud Detection using Machine Learning](https://github.com/KayMosier/kaymosier.github.io/tree/main/Fraud%20Classification%20on%20Ethereum%20Dataset)
-Utilizes tranasactional data to predict fraudulent transactions.
-### Housing Price Prediction
-Upcoming
+<body>
+<h3>Fraud Detection using Machine Learning</h3>
+  <p>Utilizes tranasactional data to predict fraudulent transactions.</p>
+<p>Click <a href="Fraud Classification on Ethereum Dataset/EDA & Fraud Detection Using Machine Learning.pdf" target="_blank">here</a> to open the PDF file.</p>
+</body>
+
+<body>
+<h3>Housing Price Prediction</h3>
+  <p>Upcoming.</p>
+</body>
 
 # Exploratory Analysis Projects
 ### [EDA on Food Security](https://github.com/KayMosier/kaymosier.github.io/blob/main/EDA%20on%20Food%20Security/EDA-on-Food-Security-Data.pdf)
