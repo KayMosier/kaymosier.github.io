@@ -38,7 +38,7 @@ Upcoming
 
 <body>
 <h1>PDF Link Example</h1>
-<p>Click <a href=""C:\Users\kayly\OneDrive\Desktop\MSDS\DSC680\Proejcts for Repo\PDF Projects\EDA-on-Food-Security-Data.pdf"" target="_blank">here</a> to open the PDF file.</p>
+<p>Click <a href="C:\Users\kayly\OneDrive\Desktop\MSDS\DSC680\Proejcts for Repo\PDF Projects\EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
 </body>
 
 # Contact
