@@ -13,8 +13,12 @@ B.S., Biology  |  Missouri State University *May 2021*
 
 
 # Machine Learning Projects
-### [Predictive Modeling on Wine Quality Dataset](https://github.com/KayMosier/kaymosier.github.io/tree/main/PCA%20%26%20Logistic%20Regression%20on%20Wine%20Quality%20Dataset)
-Pairs measurable physiochemical properties of wine with qualitative sensory data to predict the quality of a bottle of wine.
+<body>
+<h2>PDF Predictive Modeling on Wine Quality Dataset</h2>
+  <p>Pairs measurable physiochemical properties of wine with qualitative sensory data to predict the quality of a bottle of wine.</p>
+<p>Click <a href="EDA on Food Security/EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
+</body>
+
 ### [Customer Segmentation using K-Means Clustering](https://github.com/KayMosier/kaymosier.github.io/tree/main/K-Means%20Clustering%20on%20Retail%20Data%20for%20Customer%20Segmentation)
 Leverages anonymized dataset containing demographic information to segment customers into like groups using k-means clustering.
 ### [Fraud Detection using Machine Learning](https://github.com/KayMosier/kaymosier.github.io/tree/main/Fraud%20Classification%20on%20Ethereum%20Dataset)
@@ -35,11 +39,6 @@ Exemplifies abilities in data processing and transformation across different fil
 Small interactive program that finds the weather for any city or zip code requested by user. Utilizes Python
 ### Database Case Study
 Upcoming
-
-<body>
-<h1>PDF Link Example</h1>
-<p>Click <a href="EDA on Food Security/EDA-on-Food-Security-Data.pdf" target="_blank">here</a> to open the PDF file.</p>
-</body>
 
 # Contact
 email: kaylynn.mosier@yahoo.com
