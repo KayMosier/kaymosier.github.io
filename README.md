@@ -1,13 +1,9 @@
-Welcome to my portfolio and project repository!
-
 # About Me
 I recently graduated with my Masters of Science in Data Science and I am eager to showcase all that I have learned through the program. In addition to my education, I have 2 years of real-world experience in a heavy analytical role in the CPG world.
 
 This portfolio will showcase my skills as a data scientist, specifically my abilities to process data, build predictive models, and analyze complex statistical results. 
 
-To access my current GitHub repository follow this link: [KaylynnMosier](https://github.com/kaymosier/kaymosier.github.io)
-
-To access my resume, follow this link: UPDATE LINK WITH FINAL RESUME
+Resume: UPDATE LINK WITH FINAL RESUME
 
 # Education
 
