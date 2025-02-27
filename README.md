@@ -1,5 +1,5 @@
 # About Me
-I'm a data scientist passionate about extracting actionable insights from complex datasets. I leverage my skills in **machine learning, data manipulation and visualization** to solve real-world problems and drive data-informed decisions. In addition to my education, I have 2 years of industry experience in an analytical role in the CPG world.
+I'm a data scientist passionate about extracting actionable insights from complex datasets. I leverage my skills in **machine learning, data manipulation and visualization** to solve real-world problems and drive data-informed decisions. In addition to my education, I have 2 years of industry experience in an analytical role in a major CPG company.
 
 I'm eager to contribute to innovative projects and collaborate with teams to achieve impactful results.
 
@@ -60,8 +60,15 @@ The completed project spans multipple files which can be find on my GitHub repos
 # Other Projects
 <body>
 <h3> EDA and Call to Action on TSA Complaint Data</h3>
-  <p> EDA on TSA complaint data to understand causes of an increase in complaints and propose next steps to reducing complaints. The EDA file can be found on my GitHub, below I have linked to the presentation.</p>
+  <p> This research utilizes TSA complaint data to understand the steps needed to reduce the number of complaints in future years. It begins as a broad view of complaints from the whole country and all complain categories and quickly hones in on areas of action.</p>
   <p>Click <a href="TSA Complaint EDA with Call to Action/TSA Complaints Presentation.pdf">here</a> to open the PDF file.</p>
+</body>
+
+<body>
+<h3> EDA and Next Steps Using Childcare Price Dataset</h3>
+  <p> This project utilizes a PowerBI dashboard to introduce a problem, explain the background and supporting data, and propose a solution to the problem. It utilizes real and manufactured data to tell a wholistic story and urges the viewer to respond to a call to action. Below is the PDF version of the PowerBI dashboard created. This is meant to be distributed as an interactive presentation to c-suite level executives who are key stakeholders in metrics such as employee satisfaction and churn. 
+</p>
+  <p>Click <a href="EDA and Visualizations on Childcare Price Dataset/Childcare Prices Visualizations.pdf">here</a> to open the PDF file.</p>
 </body>
 
 <body>
