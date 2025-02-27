@@ -15,7 +15,7 @@ B.S., Biology  |  Missouri State University *May 2021*
 # Machine Learning Projects
 <body>
 <h3>Fraud Detection using Machine Learning</h3>
-  <p>Utilizes tranasactional data to predict fraudulent transactions.</p>
+  <p>Utilizes tranasactional data and a radom forest classifier to predict fraudulent transactions. </p>
 <p>Click <a href="Fraud Classification on Ethereum Dataset/EDA & Fraud Detection Using Machine Learning.pdf" target="_blank">here</a> to open the PDF file.</p>
 </body>
 
@@ -27,7 +27,7 @@ B.S., Biology  |  Missouri State University *May 2021*
 
 <body>
 <h3>Housing Price Prediction</h3>
-  <p>Predicts housing sale price using advanced regression techniques.</p>
+  <p>Predicts housing sale price using gradient boosting regression. Displays complex data cleaning and processing techniques.</p>
   <p>Click <a href="House Sale Price Prediction using Advanced Regression/Ames Housing Price Prediction Using Regression.pdf" target="_blank">here</a> to open the PDF file. </p>
 </body>
 
