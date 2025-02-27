@@ -1,5 +1,5 @@
 # About Me
-I'm a data scientist passionate about extracting actionable insights from complex datasets. I leverage my skills in **machine learning, data manipulation and visualization** to solve real-world problems and drive data-informed decisions. In addition to my education, I have 2 years of real-world experience in an analytical role in the CPG world.
+I'm a data scientist passionate about extracting actionable insights from complex datasets. I leverage my skills in **machine learning, data manipulation and visualization** to solve real-world problems and drive data-informed decisions. In addition to my education, I have 2 years of industry experience in an analytical role in the CPG world.
 
 I'm eager to contribute to innovative projects and collaborate with teams to achieve impactful results.
 
