@@ -3,7 +3,9 @@ I'm a data scientist passionate about extracting actionable insights from comple
 
 I'm eager to contribute to innovative projects and collaborate with teams to achieve impactful results.
 
-Resume: UPDATE LINK WITH FINAL RESUME
+<body>
+<p>Access my resume here <a href="docs/Kaylynn Mosier Resume.pdf" target="_blank">here</a></p>
+</body>
 
 # Education
 
