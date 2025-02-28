@@ -11,7 +11,7 @@ I'm eager to contribute to innovative projects and collaborate with teams to ach
 
 M.S., Data Science  |  Bellevue University *March 2025*
 
-B.S., Biology  |  Missouri State University *May 2021*
+B.S., Biology  |       Missouri State University *May 2021*
 
 
 # Machine Learning Projects
